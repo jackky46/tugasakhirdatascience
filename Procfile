@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --Voila.ip='0.0.0.0' app.ipynb
+web: voila --port=$PORT --no-browser --Voila.ip='https://stormy-fortress-57668.herokuapp.com/' app.ipynb
